@@ -1,5 +1,7 @@
 # CS177 Assignment 1 Phishing
 
+Best viewed at https://github.com/kjuu0/cs177a1phish ! 
+
 - Authors: Edward Thai, Brian Qiu
 
 ## Flow
